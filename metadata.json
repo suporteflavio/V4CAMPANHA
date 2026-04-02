@@ -1,0 +1,5 @@
+{
+  "name": "CampanhaOS",
+  "description": "SaaS multi-tenant para gestão de campanhas políticas com isolamento RLS.",
+  "requestFramePermissions": []
+}
