@@ -1,8 +1,6 @@
-@import "tailwindcss";
-
-@theme {
-  --font-sans: var(--font-inter);
-}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 :root {
   --background: #ffffff;
